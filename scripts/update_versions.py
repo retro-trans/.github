@@ -12,6 +12,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -30,12 +31,17 @@ def latest_tag(repo):
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
     if token:
         req.add_header("Authorization", f"Bearer {token}")
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            return json.load(resp)["tag_name"]
-    except (urllib.error.URLError, KeyError, ValueError) as err:
-        print(f"warning: {repo}: {err}; keeping current value", file=sys.stderr)
-        return None
+    for attempt in range(1, 4):
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                return json.load(resp)["tag_name"]
+        except (OSError, KeyError, ValueError) as err:
+            print(f"warning: {repo} (attempt {attempt}): {err}", file=sys.stderr)
+            if isinstance(err, urllib.error.HTTPError) and err.code == 404:
+                break
+            time.sleep(5 * attempt)
+    print(f"warning: {repo}: keeping current value", file=sys.stderr)
+    return None
 
 
 def render(kind, repo, tag):
