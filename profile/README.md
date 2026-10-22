@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/retro-trans/retro-trans-tools/releases/latest"><img alt="Retro Trans app" src="https://img.shields.io/github/v/release/retro-trans/retro-trans-tools?include_prereleases&style=for-the-badge&label=Retro%20Trans%20app&color=ff5fa2&labelColor=1b1533"></a>
+  <!--badge:retro-trans-tools--><a href="https://github.com/retro-trans/retro-trans-tools/releases/latest"><img alt="Retro Trans app v0.5.18" src="https://img.shields.io/badge/Retro%20Trans%20app-v0.5.18-ff5fa2?style=for-the-badge&labelColor=1b1533"></a><!--/badge-->
   <a href="https://discord.gg/MssepShjmB"><img alt="Discord" src="https://img.shields.io/badge/Discord-join%20the%20community-5ce1e6?style=for-the-badge&logo=discord&logoColor=white&labelColor=1b1533"></a>
 </p>
 
@@ -25,40 +25,40 @@ Prefer doing it by hand? Every release also works with [Delta Patcher](https://g
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Super Robot Wars Z](https://github.com/retro-trans/SRW-Z) | PS2 | SLPS-25887 · SLPS-73270 | ![](https://img.shields.io/github/v/release/retro-trans/SRW-Z?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Super Robot Wars Z Special Disc](https://github.com/retro-trans/SRW-Z-Special-Disc) | PS2 | SLPS-25920 | ![](https://img.shields.io/github/v/release/retro-trans/SRW-Z-Special-Disc?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Super Robot Wars Z3: Jigoku-hen](https://github.com/retro-trans/SRW-Z3) | PS3 · Vita | BLJS10256 · PCSG00264 | ![](https://img.shields.io/github/v/release/retro-trans/SRW-Z3?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Super Robot Wars Z3: Rengoku-hen](https://github.com/retro-trans/SRW-Z3-R) | PS3 | NPJB00689 | ![](https://img.shields.io/github/v/release/retro-trans/SRW-Z3-R?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Super Robot Wars Z3: Tengoku-hen](https://github.com/retro-trans/SRW-Z3-2) | PS3 | BLJS10299 | ![](https://img.shields.io/github/v/release/retro-trans/SRW-Z3-2?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Super Robot Wars MX / MX Portable](https://github.com/retro-trans/SRW-MX-Portable) | PS2 · PSP | SLPS-25345 · ULJS-00041 | ![](https://img.shields.io/github/v/release/retro-trans/SRW-MX-Portable?include_prereleases&style=flat-square&label=&color=3a2f63) |
+| [Super Robot Wars Z](https://github.com/retro-trans/SRW-Z) | PS2 | SLPS-25887 · SLPS-73270 | <!--v:SRW-Z-->[`v0.9.88`](https://github.com/retro-trans/SRW-Z/releases/latest)<!--/v--> |
+| [Super Robot Wars Z Special Disc](https://github.com/retro-trans/SRW-Z-Special-Disc) | PS2 | SLPS-25920 | <!--v:SRW-Z-Special-Disc-->[`v0.3.20`](https://github.com/retro-trans/SRW-Z-Special-Disc/releases/latest)<!--/v--> |
+| [Super Robot Wars Z3: Jigoku-hen](https://github.com/retro-trans/SRW-Z3) | PS3 · Vita | BLJS10256 · PCSG00264 | <!--v:SRW-Z3-->[`v0.9.3`](https://github.com/retro-trans/SRW-Z3/releases/latest)<!--/v--> |
+| [Super Robot Wars Z3: Rengoku-hen](https://github.com/retro-trans/SRW-Z3-R) | PS3 | NPJB00689 | <!--v:SRW-Z3-R-->[`v0.9.0`](https://github.com/retro-trans/SRW-Z3-R/releases/latest)<!--/v--> |
+| [Super Robot Wars Z3: Tengoku-hen](https://github.com/retro-trans/SRW-Z3-2) | PS3 | BLJS10299 | <!--v:SRW-Z3-2-->[`v0.5.44`](https://github.com/retro-trans/SRW-Z3-2/releases/latest)<!--/v--> |
+| [Super Robot Wars MX / MX Portable](https://github.com/retro-trans/SRW-MX-Portable) | PS2 · PSP | SLPS-25345 · ULJS-00041 | <!--v:SRW-MX-Portable-->[`v0.4.38`](https://github.com/retro-trans/SRW-MX-Portable/releases/latest)<!--/v--> |
 
 ### Macross
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Macross Ace Frontier](https://github.com/retro-trans/Macross-Ace-Frontier) | PSP | ULJS-00158 | ![](https://img.shields.io/github/v/release/retro-trans/Macross-Ace-Frontier?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Macross Ultimate Frontier](https://github.com/retro-trans/Macross-Ultimate-Frontier) | PSP | NPJH-50050 | ![](https://img.shields.io/github/v/release/retro-trans/Macross-Ultimate-Frontier?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Macross Triangle Frontier](https://github.com/retro-trans/Macross-Triangle-Frontier) | PSP | ULJS-00321 | ![](https://img.shields.io/github/v/release/retro-trans/Macross-Triangle-Frontier?include_prereleases&style=flat-square&label=&color=3a2f63) |
+| [Macross Ace Frontier](https://github.com/retro-trans/Macross-Ace-Frontier) | PSP | ULJS-00158 | <!--v:Macross-Ace-Frontier-->[`v0.2.3`](https://github.com/retro-trans/Macross-Ace-Frontier/releases/latest)<!--/v--> |
+| [Macross Ultimate Frontier](https://github.com/retro-trans/Macross-Ultimate-Frontier) | PSP | NPJH-50050 | <!--v:Macross-Ultimate-Frontier-->[`v0.7.9`](https://github.com/retro-trans/Macross-Ultimate-Frontier/releases/latest)<!--/v--> |
+| [Macross Triangle Frontier](https://github.com/retro-trans/Macross-Triangle-Frontier) | PSP | ULJS-00321 | <!--v:Macross-Triangle-Frontier-->[`v0.1.25`](https://github.com/retro-trans/Macross-Triangle-Frontier/releases/latest)<!--/v--> |
 
 ### Another Century's Episode
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Another Century's Episode](https://github.com/retro-trans/ACE) | PS2 | SLPS-25394 | ![](https://img.shields.io/github/v/release/retro-trans/ACE?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Another Century's Episode 3: The Final](https://github.com/retro-trans/ACE-3) | PS2 | SLPS-25784 | ![](https://img.shields.io/github/v/release/retro-trans/ACE-3?include_prereleases&style=flat-square&label=&color=3a2f63) |
+| [Another Century's Episode](https://github.com/retro-trans/ACE) | PS2 | SLPS-25394 | <!--v:ACE-->[`v0.1.29`](https://github.com/retro-trans/ACE/releases/latest)<!--/v--> |
+| [Another Century's Episode 3: The Final](https://github.com/retro-trans/ACE-3) | PS2 | SLPS-25784 | <!--v:ACE-3-->[`v0.9.20`](https://github.com/retro-trans/ACE-3/releases/latest)<!--/v--> |
 
 ### More games
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Summon Night 3](https://github.com/retro-trans/Summon-Night-3) | PSP | NPJH50380 | ![](https://img.shields.io/github/v/release/retro-trans/Summon-Night-3?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Heroes Phantasia](https://github.com/retro-trans/Heroes-Phantasia) | PSP | ULJS-00456 | ![](https://img.shields.io/github/v/release/retro-trans/Heroes-Phantasia?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Lost Heroes](https://github.com/retro-trans/Lost-Heroes) | PSP | NPJH50647 | ![](https://img.shields.io/github/v/release/retro-trans/Lost-Heroes?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Ore no Shikabane o Koete Yuke](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke) | PSP | UCJS-10117 | ![](https://img.shields.io/github/v/release/retro-trans/Ore-no-Shikabane-o-Koete-Yuke?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Cross Ange: Rondo of Angel and Dragon tr.](https://github.com/retro-trans/Cross-Ange) | Vita | PCSG00597 | ![](https://img.shields.io/github/v/release/retro-trans/Cross-Ange?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Wizardry Perfect Pack: Prisoners of the Lost City](https://github.com/retro-trans/Wizardry-Perfect-Pack) | PS3 | NPJB00162 | ![](https://img.shields.io/github/v/release/retro-trans/Wizardry-Perfect-Pack?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | ![](https://img.shields.io/github/v/release/retro-trans/Super-Tokusatsu-Taisen-2001?include_prereleases&style=flat-square&label=&color=3a2f63) |
-| [Marionette Handler 2](https://github.com/retro-trans/Marionnete-Handler-2) | Dreamcast | — | ![](https://img.shields.io/github/v/release/retro-trans/Marionnete-Handler-2?include_prereleases&style=flat-square&label=&color=3a2f63) |
+| [Summon Night 3](https://github.com/retro-trans/Summon-Night-3) | PSP | NPJH50380 | <!--v:Summon-Night-3-->[`v0.1.88`](https://github.com/retro-trans/Summon-Night-3/releases/latest)<!--/v--> |
+| [Heroes Phantasia](https://github.com/retro-trans/Heroes-Phantasia) | PSP | ULJS-00456 | <!--v:Heroes-Phantasia-->[`v0.1.61`](https://github.com/retro-trans/Heroes-Phantasia/releases/latest)<!--/v--> |
+| [Lost Heroes](https://github.com/retro-trans/Lost-Heroes) | PSP | NPJH50647 | <!--v:Lost-Heroes-->[`v0.1.20`](https://github.com/retro-trans/Lost-Heroes/releases/latest)<!--/v--> |
+| [Ore no Shikabane o Koete Yuke](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke) | PSP | UCJS-10117 | <!--v:Ore-no-Shikabane-o-Koete-Yuke-->[`v0.2.48`](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/latest)<!--/v--> |
+| [Cross Ange: Rondo of Angel and Dragon tr.](https://github.com/retro-trans/Cross-Ange) | Vita | PCSG00597 | <!--v:Cross-Ange-->[`v0.1.13`](https://github.com/retro-trans/Cross-Ange/releases/latest)<!--/v--> |
+| [Wizardry Perfect Pack: Prisoners of the Lost City](https://github.com/retro-trans/Wizardry-Perfect-Pack) | PS3 | NPJB00162 | <!--v:Wizardry-Perfect-Pack-->[`v0.1.23`](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/latest)<!--/v--> |
+| [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | <!--v:Super-Tokusatsu-Taisen-2001-->[`v0.3.29`](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/latest)<!--/v--> |
+| [Marionette Handler 2](https://github.com/retro-trans/Marionnete-Handler-2) | Dreamcast | — | <!--v:Marionnete-Handler-2-->[`v0.1.17`](https://github.com/retro-trans/Marionnete-Handler-2/releases/latest)<!--/v--> |
 
 > [!NOTE]
 > Most projects are **work in progress**. The version number tells you how far along a game is:
