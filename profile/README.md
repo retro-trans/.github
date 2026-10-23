@@ -37,7 +37,7 @@ Prefer doing it by hand? Every release also works with [Delta Patcher](https://g
 | Game | System | Serial | Latest |
 |---|---|---|---|
 | [Macross Ace Frontier](https://github.com/retro-trans/Macross-Ace-Frontier) | PSP | ULJS-00158 | <!--v:Macross-Ace-Frontier-->[`v0.2.3`](https://github.com/retro-trans/Macross-Ace-Frontier/releases/latest)<!--/v--> |
-| [Macross Ultimate Frontier](https://github.com/retro-trans/Macross-Ultimate-Frontier) | PSP | NPJH-50050 | <!--v:Macross-Ultimate-Frontier-->[`v0.7.9`](https://github.com/retro-trans/Macross-Ultimate-Frontier/releases/latest)<!--/v--> |
+| [Macross Ultimate Frontier](https://github.com/retro-trans/Macross-Ultimate-Frontier) | PSP | NPJH-50050 | <!--v:Macross-Ultimate-Frontier-->[`v0.7.15`](https://github.com/retro-trans/Macross-Ultimate-Frontier/releases/latest)<!--/v--> |
 | [Macross Triangle Frontier](https://github.com/retro-trans/Macross-Triangle-Frontier) | PSP | ULJS-00321 | <!--v:Macross-Triangle-Frontier-->[`v0.1.25`](https://github.com/retro-trans/Macross-Triangle-Frontier/releases/latest)<!--/v--> |
 
 ### Another Century's Episode
