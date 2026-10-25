@@ -25,12 +25,12 @@ Prefer doing it by hand? Every release also works with [Delta Patcher](https://g
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Super Robot Wars Z](https://github.com/retro-trans/SRW-Z) | PS2 | SLPS-25887 · SLPS-73270 | <!--v:SRW-Z-->[`v0.9.88`](https://github.com/retro-trans/SRW-Z/releases/latest)<!--/v--> |
+| [Super Robot Wars Z](https://github.com/retro-trans/SRW-Z) | PS2 | SLPS-25887 · SLPS-73270 | <!--v:SRW-Z-->[`v0.9.89`](https://github.com/retro-trans/SRW-Z/releases/latest)<!--/v--> |
 | [Super Robot Wars Z Special Disc](https://github.com/retro-trans/SRW-Z-Special-Disc) | PS2 | SLPS-25920 | <!--v:SRW-Z-Special-Disc-->[`v0.3.20`](https://github.com/retro-trans/SRW-Z-Special-Disc/releases/latest)<!--/v--> |
 | [Super Robot Wars Z3: Jigoku-hen](https://github.com/retro-trans/SRW-Z3) | PS3 · Vita | BLJS10256 · PCSG00264 | <!--v:SRW-Z3-->[`v0.9.3`](https://github.com/retro-trans/SRW-Z3/releases/latest)<!--/v--> |
 | [Super Robot Wars Z3: Rengoku-hen](https://github.com/retro-trans/SRW-Z3-R) | PS3 | NPJB00689 | <!--v:SRW-Z3-R-->[`v0.9.0`](https://github.com/retro-trans/SRW-Z3-R/releases/latest)<!--/v--> |
 | [Super Robot Wars Z3: Tengoku-hen](https://github.com/retro-trans/SRW-Z3-2) | PS3 | BLJS10299 | <!--v:SRW-Z3-2-->[`v0.5.44`](https://github.com/retro-trans/SRW-Z3-2/releases/latest)<!--/v--> |
-| [Super Robot Wars MX / MX Portable](https://github.com/retro-trans/SRW-MX-Portable) | PS2 · PSP | SLPS-25345 · ULJS-00041 | <!--v:SRW-MX-Portable-->[`v0.4.38`](https://github.com/retro-trans/SRW-MX-Portable/releases/latest)<!--/v--> |
+| [Super Robot Wars MX / MX Portable](https://github.com/retro-trans/SRW-MX-Portable) | PS2 · PSP | SLPS-25345 · ULJS-00041 | <!--v:SRW-MX-Portable-->[`v0.4.47`](https://github.com/retro-trans/SRW-MX-Portable/releases/latest)<!--/v--> |
 
 ### Macross
 
@@ -55,7 +55,7 @@ Prefer doing it by hand? Every release also works with [Delta Patcher](https://g
 | [Heroes Phantasia](https://github.com/retro-trans/Heroes-Phantasia) | PSP | ULJS-00456 | <!--v:Heroes-Phantasia-->[`v0.1.61`](https://github.com/retro-trans/Heroes-Phantasia/releases/latest)<!--/v--> |
 | [Lost Heroes](https://github.com/retro-trans/Lost-Heroes) | PSP | NPJH50647 | <!--v:Lost-Heroes-->[`v0.1.20`](https://github.com/retro-trans/Lost-Heroes/releases/latest)<!--/v--> |
 | [Ore no Shikabane o Koete Yuke](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke) | PSP | UCJS-10117 | <!--v:Ore-no-Shikabane-o-Koete-Yuke-->[`v0.2.48`](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/latest)<!--/v--> |
-| [Cross Ange: Rondo of Angel and Dragon tr.](https://github.com/retro-trans/Cross-Ange) | Vita | PCSG00597 | <!--v:Cross-Ange-->[`v0.1.13`](https://github.com/retro-trans/Cross-Ange/releases/latest)<!--/v--> |
+| [Cross Ange: Rondo of Angel and Dragon tr.](https://github.com/retro-trans/Cross-Ange) | Vita | PCSG00597 | <!--v:Cross-Ange-->[`v0.1.16`](https://github.com/retro-trans/Cross-Ange/releases/latest)<!--/v--> |
 | [Wizardry Perfect Pack: Prisoners of the Lost City](https://github.com/retro-trans/Wizardry-Perfect-Pack) | PS3 | NPJB00162 | <!--v:Wizardry-Perfect-Pack-->[`v0.1.23`](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/latest)<!--/v--> |
 | [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | <!--v:Super-Tokusatsu-Taisen-2001-->[`v0.9.0`](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/latest)<!--/v--> |
 | [Vampir: Kyuuketsuki Densetsu](https://github.com/retro-trans/Vampir) | PS1 | SLPS-01932 | <!--v:Vampir-->[`v0.6.0`](https://github.com/retro-trans/Vampir/releases/latest)<!--/v--> |
