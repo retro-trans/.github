@@ -44,7 +44,7 @@ Prefer doing it by hand? Every release also works with [Delta Patcher](https://g
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Another Century's Episode](https://github.com/retro-trans/ACE) | PS2 | SLPS-25394 | <!--v:ACE-->[`v0.1.29`](https://github.com/retro-trans/ACE/releases/latest)<!--/v--> |
+| [Another Century's Episode](https://github.com/retro-trans/ACE) | PS2 | SLPS-25394 | <!--v:ACE-->[`v0.1.32`](https://github.com/retro-trans/ACE/releases/latest)<!--/v--> |
 | [Another Century's Episode 3: The Final](https://github.com/retro-trans/ACE-3) | PS2 | SLPS-25784 | <!--v:ACE-3-->[`v0.9.20`](https://github.com/retro-trans/ACE-3/releases/latest)<!--/v--> |
 
 ### More games
