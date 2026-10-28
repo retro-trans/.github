@@ -44,7 +44,7 @@ Prefer doing it by hand? Every release also works with [Delta Patcher](https://g
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Another Century's Episode](https://github.com/retro-trans/ACE) | PS2 | SLPS-25394 | <!--v:ACE-->[`v0.1.32`](https://github.com/retro-trans/ACE/releases/latest)<!--/v--> |
+| [Another Century's Episode](https://github.com/retro-trans/ACE) | PS2 | SLPS-25394 | <!--v:ACE-->[`v0.1.38`](https://github.com/retro-trans/ACE/releases/latest)<!--/v--> |
 | [Another Century's Episode 3: The Final](https://github.com/retro-trans/ACE-3) | PS2 | SLPS-25784 | <!--v:ACE-3-->[`v0.9.20`](https://github.com/retro-trans/ACE-3/releases/latest)<!--/v--> |
 
 ### More games
@@ -59,7 +59,7 @@ Prefer doing it by hand? Every release also works with [Delta Patcher](https://g
 | [Wizardry Perfect Pack: Prisoners of the Lost City](https://github.com/retro-trans/Wizardry-Perfect-Pack) | PS3 | NPJB00162 | <!--v:Wizardry-Perfect-Pack-->[`v0.1.23`](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/latest)<!--/v--> |
 | [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | <!--v:Super-Tokusatsu-Taisen-2001-->[`v0.9.0`](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/latest)<!--/v--> |
 | [Vampir: Kyuuketsuki Densetsu](https://github.com/retro-trans/Vampir) | PS1 | SLPS-01932 | <!--v:Vampir-->[`v0.6.0`](https://github.com/retro-trans/Vampir/releases/latest)<!--/v--> |
-| [Seireiki Rayblade](https://github.com/retro-trans/Seireiki-Rayblade) | Dreamcast | T-42201M | <!--v:Seireiki-Rayblade-->[`v0.7.11`](https://github.com/retro-trans/Seireiki-Rayblade/releases/latest)<!--/v--> |
+| [Seireiki Rayblade](https://github.com/retro-trans/Seireiki-Rayblade) | Dreamcast | T-42201M | <!--v:Seireiki-Rayblade-->[`v0.7.23`](https://github.com/retro-trans/Seireiki-Rayblade/releases/latest)<!--/v--> |
 | [Marionette Handler 2](https://github.com/retro-trans/Marionnete-Handler-2) | Dreamcast | — | <!--v:Marionnete-Handler-2-->[`v0.1.17`](https://github.com/retro-trans/Marionnete-Handler-2/releases/latest)<!--/v--> |
 
 > [!NOTE]
