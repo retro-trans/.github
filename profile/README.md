@@ -25,7 +25,7 @@ Prefer doing it by hand? Every release also works with [Delta Patcher](https://g
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Super Robot Wars Z](https://github.com/retro-trans/SRW-Z) | PS2 | SLPS-25887 · SLPS-73270 | <!--v:SRW-Z-->[`v0.9.89`](https://github.com/retro-trans/SRW-Z/releases/latest)<!--/v--> |
+| [Super Robot Wars Z](https://github.com/retro-trans/SRW-Z) | PS2 | SLPS-25887 · SLPS-73270 | <!--v:SRW-Z-->[`v0.9.90`](https://github.com/retro-trans/SRW-Z/releases/latest)<!--/v--> |
 | [Super Robot Wars Z Special Disc](https://github.com/retro-trans/SRW-Z-Special-Disc) | PS2 | SLPS-25920 | <!--v:SRW-Z-Special-Disc-->[`v0.3.20`](https://github.com/retro-trans/SRW-Z-Special-Disc/releases/latest)<!--/v--> |
 | [Super Robot Wars Z3: Jigoku-hen](https://github.com/retro-trans/SRW-Z3) | PS3 · Vita | BLJS10256 · PCSG00264 | <!--v:SRW-Z3-->[`v0.9.3`](https://github.com/retro-trans/SRW-Z3/releases/latest)<!--/v--> |
 | [Super Robot Wars Z3: Rengoku-hen](https://github.com/retro-trans/SRW-Z3-R) | PS3 | NPJB00689 | <!--v:SRW-Z3-R-->[`v0.9.0`](https://github.com/retro-trans/SRW-Z3-R/releases/latest)<!--/v--> |
