@@ -9,15 +9,15 @@
 
 **Retro Trans** makes open toolchains and English fan translation patches for Japanese games that never left Japan: mostly **Super Robot Wars**, **Macross** and **Another Century's Episode**, plus RPGs across PS1, PS2, PS3, PSP, Vita and Dreamcast.
 
-Every project ships as a small **xdelta patch you apply to your own disc dump**. We never distribute game images or Japanese script dumps. Patches are verified against exact source and output hashes.
+Every project ships as a small **patch you apply to your own disc dump** (xdelta for most games, DCP for some Dreamcast discs). We never distribute game images or Japanese script dumps. Patches are verified against exact source and output hashes.
 
 ## ▸ Press start
 
 1. Download **[Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest)** for Windows 10/11 (standalone EXE, nothing else to install).
-2. Open the **Automatic** tab, click **Refresh catalog** and select your original Japanese ISO / CHD / BIN.
+2. Open the **Automatic** tab, click **Refresh catalog** and select your original Japanese ISO / CHD / BIN / CUE.
 3. Choose **Latest**, pick an output filename and click **Patch**. The app finds the right patch (fresh install or upgrade), downloads it and verifies the result.
 
-Prefer doing it by hand? Every release also works with [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or `xdelta3`. The project's README lists the hashes. Vita releases also support Vita3K and hardware rePatch through the app.
+Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or `xdelta3`, and DCP releases with the app's **DCP** tab. The project's README lists the hashes. Vita releases also support Vita3K and hardware rePatch through the app.
 
 ## ▸ Game select
 
@@ -60,6 +60,8 @@ Prefer doing it by hand? Every release also works with [Delta Patcher](https://g
 | [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | <!--v:Super-Tokusatsu-Taisen-2001-->[`v0.9.0`](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/latest)<!--/v--> |
 | [Vampir: Kyuuketsuki Densetsu](https://github.com/retro-trans/Vampir) | PS1 | SLPS-01932 | <!--v:Vampir-->[`v0.6.0`](https://github.com/retro-trans/Vampir/releases/latest)<!--/v--> |
 | [Seireiki Rayblade](https://github.com/retro-trans/Seireiki-Rayblade) | Dreamcast | T-42201M | <!--v:Seireiki-Rayblade-->[`v0.7.23`](https://github.com/retro-trans/Seireiki-Rayblade/releases/latest)<!--/v--> |
+| [Sunrise Eiyuutan R](https://github.com/retro-trans/Sunrise-Eiyuutan-R) | PS2 | SLPS-25011 | <!--v:Sunrise-Eiyuutan-R-->[`v0.8.0`](https://github.com/retro-trans/Sunrise-Eiyuutan-R/releases/latest)<!--/v--> |
+| [Black/Matrix AD](https://github.com/retro-trans/Black-Matrix-AD) | Dreamcast | — | <!--v:Black-Matrix-AD-->[`v0.9.0`](https://github.com/retro-trans/Black-Matrix-AD/releases/latest)<!--/v--> |
 | [Marionette Handler 2](https://github.com/retro-trans/Marionnete-Handler-2) | Dreamcast | — | <!--v:Marionnete-Handler-2-->[`v0.1.17`](https://github.com/retro-trans/Marionnete-Handler-2/releases/latest)<!--/v--> |
 
 > [!NOTE]
