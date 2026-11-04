@@ -61,7 +61,7 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 | [Vampir: Kyuuketsuki Densetsu](https://github.com/retro-trans/Vampir) | PS1 | SLPS-01932 | <!--v:Vampir-->[`v0.6.0`](https://github.com/retro-trans/Vampir/releases/latest)<!--/v--> |
 | [Seireiki Rayblade](https://github.com/retro-trans/Seireiki-Rayblade) | Dreamcast | T-42201M | <!--v:Seireiki-Rayblade-->[`v0.7.23`](https://github.com/retro-trans/Seireiki-Rayblade/releases/latest)<!--/v--> |
 | [Sunrise Eiyuutan R](https://github.com/retro-trans/Sunrise-Eiyuutan-R) | PS2 | SLPS-25011 | <!--v:Sunrise-Eiyuutan-R-->[`v0.8.0`](https://github.com/retro-trans/Sunrise-Eiyuutan-R/releases/latest)<!--/v--> |
-| [Black/Matrix AD](https://github.com/retro-trans/Black-Matrix-AD) | Dreamcast | — | <!--v:Black-Matrix-AD-->[`v0.9.0`](https://github.com/retro-trans/Black-Matrix-AD/releases/latest)<!--/v--> |
+| [Black/Matrix AD](https://github.com/retro-trans/Black-Matrix-AD) | Dreamcast | — | <!--v:Black-Matrix-AD-->[`v0.9.1`](https://github.com/retro-trans/Black-Matrix-AD/releases/latest)<!--/v--> |
 | [Marionette Handler 2](https://github.com/retro-trans/Marionnete-Handler-2) | Dreamcast | — | <!--v:Marionnete-Handler-2-->[`v0.1.17`](https://github.com/retro-trans/Marionnete-Handler-2/releases/latest)<!--/v--> |
 
 > [!NOTE]
