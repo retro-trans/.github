@@ -52,7 +52,7 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 | Game | System | Serial | Latest |
 |---|---|---|---|
 | [Summon Night 3](https://github.com/retro-trans/Summon-Night-3) | PSP | NPJH50380 | <!--v:Summon-Night-3-->[`v0.1.88`](https://github.com/retro-trans/Summon-Night-3/releases/latest)<!--/v--> |
-| [Heroes Phantasia](https://github.com/retro-trans/Heroes-Phantasia) | PSP | ULJS-00456 | <!--v:Heroes-Phantasia-->[`v0.1.61`](https://github.com/retro-trans/Heroes-Phantasia/releases/latest)<!--/v--> |
+| [Heroes Phantasia](https://github.com/retro-trans/Heroes-Phantasia) | PSP | ULJS-00456 | <!--v:Heroes-Phantasia-->[`v0.1.62`](https://github.com/retro-trans/Heroes-Phantasia/releases/latest)<!--/v--> |
 | [Lost Heroes](https://github.com/retro-trans/Lost-Heroes) | PSP | NPJH50647 | <!--v:Lost-Heroes-->[`v0.1.20`](https://github.com/retro-trans/Lost-Heroes/releases/latest)<!--/v--> |
 | [Ore no Shikabane o Koete Yuke](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke) | PSP | UCJS-10117 | <!--v:Ore-no-Shikabane-o-Koete-Yuke-->[`v0.2.52`](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/latest)<!--/v--> |
 | [Cross Ange: Rondo of Angel and Dragon tr.](https://github.com/retro-trans/Cross-Ange) | Vita | PCSG00597 | <!--v:Cross-Ange-->[`v0.1.16`](https://github.com/retro-trans/Cross-Ange/releases/latest)<!--/v--> |
