@@ -7,7 +7,7 @@
   <a href="https://discord.gg/MssepShjmB"><img alt="Discord" src="https://img.shields.io/badge/Discord-join%20the%20community-5ce1e6?style=for-the-badge&logo=discord&logoColor=white&labelColor=1b1533"></a>
 </p>
 
-**Retro Trans** makes open toolchains and English fan translation patches for Japanese games that never left Japan: mostly **Super Robot Wars**, **Macross** and **Another Century's Episode**, plus RPGs across PS1, PS2, PS3, PSP, Vita and Dreamcast.
+**Retro Trans** makes open toolchains and English fan translation patches for Japanese games that never left Japan: mostly **Super Robot Wars**, **Macross** and **Another Century's Episode**, plus RPGs across PS1, PS2, PS3, PSP, Vita, Dreamcast, GameCube and PC.
 
 Every project ships as a small **patch you apply to your own disc dump** (xdelta for most games, DCP for some Dreamcast discs). We never distribute game images or Japanese script dumps. Patches are verified against exact source and output hashes.
 
@@ -47,6 +47,13 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 | [Another Century's Episode](https://github.com/retro-trans/ACE) | PS2 | SLPS-25394 | <!--v:ACE-->[`v0.9.0`](https://github.com/retro-trans/ACE/releases/latest)<!--/v--> |
 | [Another Century's Episode 3: The Final](https://github.com/retro-trans/ACE-3) | PS2 | SLPS-25784 | <!--v:ACE-3-->[`v0.9.20`](https://github.com/retro-trans/ACE-3/releases/latest)<!--/v--> |
 
+### Sunrise Eiyuutan
+
+| Game | System | Serial | Latest |
+|---|---|---|---|
+| [Sunrise Eiyuutan R](https://github.com/retro-trans/Sunrise-Eiyuutan-R) | PS2 | SLPS-25011 | <!--v:Sunrise-Eiyuutan-R-->[`v0.8.0`](https://github.com/retro-trans/Sunrise-Eiyuutan-R/releases/latest)<!--/v--> |
+| [Sunrise Eiyuutan 2](https://github.com/retro-trans/Sunrise-Eiyuutan-2) | PS2 | SLPS-25070 | <!--v:Sunrise-Eiyuutan-2-->[`v0.8.0`](https://github.com/retro-trans/Sunrise-Eiyuutan-2/releases/latest)<!--/v--> |
+
 ### More games
 
 | Game | System | Serial | Latest |
@@ -60,8 +67,9 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 | [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | <!--v:Super-Tokusatsu-Taisen-2001-->[`v0.9.0`](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/latest)<!--/v--> |
 | [Vampir: Kyuuketsuki Densetsu](https://github.com/retro-trans/Vampir) | PS1 | SLPS-01932 | <!--v:Vampir-->[`v0.6.0`](https://github.com/retro-trans/Vampir/releases/latest)<!--/v--> |
 | [Seireiki Rayblade](https://github.com/retro-trans/Seireiki-Rayblade) | Dreamcast | T-42201M | <!--v:Seireiki-Rayblade-->[`v0.7.23`](https://github.com/retro-trans/Seireiki-Rayblade/releases/latest)<!--/v--> |
-| [Sunrise Eiyuutan R](https://github.com/retro-trans/Sunrise-Eiyuutan-R) | PS2 | SLPS-25011 | <!--v:Sunrise-Eiyuutan-R-->[`v0.8.0`](https://github.com/retro-trans/Sunrise-Eiyuutan-R/releases/latest)<!--/v--> |
 | [Black/Matrix AD](https://github.com/retro-trans/Black-Matrix-AD) | Dreamcast | — | <!--v:Black-Matrix-AD-->[`v0.9.1`](https://github.com/retro-trans/Black-Matrix-AD/releases/latest)<!--/v--> |
+| [Tengai Makyou II: Manji Maru](https://github.com/retro-trans/Tengai-Makyou-II) | GameCube | GT2J | <!--v:Tengai-Makyou-II-->[`v0.8.0`](https://github.com/retro-trans/Tengai-Makyou-II/releases/latest)<!--/v--> |
+| [Cross Hermit: Guardian of the Far Reaches](https://github.com/retro-trans/cross-hermit) | PC (Windows) | — | <!--v:cross-hermit-->[`v0.8.0`](https://github.com/retro-trans/cross-hermit/releases/latest)<!--/v--> |
 | [Marionette Handler 2](https://github.com/retro-trans/Marionnete-Handler-2) | Dreamcast | — | <!--v:Marionnete-Handler-2-->[`v0.1.17`](https://github.com/retro-trans/Marionnete-Handler-2/releases/latest)<!--/v--> |
 
 > [!NOTE]
