@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <!--badge:retro-trans-tools--><a href="https://github.com/retro-trans/retro-trans-tools/releases/latest"><img alt="Retro Trans app v0.5.21" src="https://img.shields.io/badge/Retro%20Trans%20app-v0.5.21-ff5fa2?style=for-the-badge&labelColor=1b1533"></a><!--/badge-->
+  <!--badge:retro-trans-tools--><a href="https://github.com/retro-trans/retro-trans-tools/releases/latest"><img alt="Retro Trans app v0.5.22" src="https://img.shields.io/badge/Retro%20Trans%20app-v0.5.22-ff5fa2?style=for-the-badge&labelColor=1b1533"></a><!--/badge-->
   <a href="https://discord.gg/MssepShjmB"><img alt="Discord" src="https://img.shields.io/badge/Discord-join%20the%20community-5ce1e6?style=for-the-badge&logo=discord&logoColor=white&labelColor=1b1533"></a>
 </p>
 
@@ -27,10 +27,10 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 |---|---|---|---|
 | [Super Robot Wars Z](https://github.com/retro-trans/SRW-Z) | PS2 | SLPS-25887 · SLPS-73270 | <!--v:SRW-Z-->[`v0.9.90`](https://github.com/retro-trans/SRW-Z/releases/latest)<!--/v--> |
 | [Super Robot Wars Z Special Disc](https://github.com/retro-trans/SRW-Z-Special-Disc) | PS2 | SLPS-25920 | <!--v:SRW-Z-Special-Disc-->[`v0.3.20`](https://github.com/retro-trans/SRW-Z-Special-Disc/releases/latest)<!--/v--> |
-| [Super Robot Wars Z3: Jigoku-hen](https://github.com/retro-trans/SRW-Z3) | PS3 · Vita | BLJS10256 · PCSG00264 | <!--v:SRW-Z3-->[`v0.9.3`](https://github.com/retro-trans/SRW-Z3/releases/latest)<!--/v--> |
+| [Super Robot Wars Z3: Jigoku-hen](https://github.com/retro-trans/SRW-Z3) | PS3 · Vita | BLJS10256 · PCSG00264 | <!--v:SRW-Z3-->[`v0.9.5`](https://github.com/retro-trans/SRW-Z3/releases/latest)<!--/v--> |
 | [Super Robot Wars Z3: Rengoku-hen](https://github.com/retro-trans/SRW-Z3-R) | PS3 | NPJB00689 | <!--v:SRW-Z3-R-->[`v0.9.0`](https://github.com/retro-trans/SRW-Z3-R/releases/latest)<!--/v--> |
 | [Super Robot Wars Z3: Tengoku-hen](https://github.com/retro-trans/SRW-Z3-2) | PS3 | BLJS10299 | <!--v:SRW-Z3-2-->[`v0.5.44`](https://github.com/retro-trans/SRW-Z3-2/releases/latest)<!--/v--> |
-| [Super Robot Wars MX / MX Portable](https://github.com/retro-trans/SRW-MX-Portable) | PS2 · PSP | SLPS-25345 · ULJS-00041 | <!--v:SRW-MX-Portable-->[`v0.4.47`](https://github.com/retro-trans/SRW-MX-Portable/releases/latest)<!--/v--> |
+| [Super Robot Wars MX / MX Portable](https://github.com/retro-trans/SRW-MX-Portable) | PS2 · PSP | SLPS-25345 · ULJS-00041 | <!--v:SRW-MX-Portable-->[`v0.4.54`](https://github.com/retro-trans/SRW-MX-Portable/releases/latest)<!--/v--> |
 
 ### Macross
 
