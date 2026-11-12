@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <!--badge:retro-trans-tools--><a href="https://github.com/retro-trans/retro-trans-tools/releases/latest"><img alt="Retro Trans app v0.5.22" src="https://img.shields.io/badge/Retro%20Trans%20app-v0.5.22-ff5fa2?style=for-the-badge&labelColor=1b1533"></a><!--/badge-->
+  <!--badge:retro-trans-tools--><a href="https://github.com/retro-trans/retro-trans-tools/releases/latest"><img alt="Retro Trans app v0.5.23" src="https://img.shields.io/badge/Retro%20Trans%20app-v0.5.23-ff5fa2?style=for-the-badge&labelColor=1b1533"></a><!--/badge-->
   <a href="https://discord.gg/MssepShjmB"><img alt="Discord" src="https://img.shields.io/badge/Discord-join%20the%20community-5ce1e6?style=for-the-badge&logo=discord&logoColor=white&labelColor=1b1533"></a>
 </p>
 
