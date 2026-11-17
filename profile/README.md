@@ -7,7 +7,7 @@
   <a href="https://discord.gg/nZBZfTDfCP"><img alt="Discord" src="https://img.shields.io/badge/Discord-join%20the%20community-5ce1e6?style=for-the-badge&logo=discord&logoColor=white&labelColor=1b1533"></a>
 </p>
 
-**Retro Trans** makes open toolchains and English fan translation patches for Japanese games that never left Japan: mostly **Super Robot Wars**, **Macross** and **Another Century's Episode**, plus RPGs across PS1, PS2, PS3, PSP, Vita, Dreamcast, GameCube and PC.
+**Retro Trans** makes open toolchains and English fan translation patches for Japanese games that never left Japan: mostly **Super Robot Wars**, **Macross** and **Another Century's Episode**, plus RPGs and horror across PS1, PS2, PS3, PSP, Vita, Dreamcast, GameCube and PC.
 
 Every project ships as a small **patch you apply to your own disc dump** (xdelta for most games, DCP for some Dreamcast discs). We never distribute game images or Japanese script dumps. Patches are verified against exact source and output hashes.
 
@@ -46,6 +46,7 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 |---|---|---|---|
 | [Another Century's Episode](https://github.com/retro-trans/ACE) | PS2 | SLPS-25394 | <!--v:ACE-->[`v0.9.0`](https://github.com/retro-trans/ACE/releases/latest)<!--/v--> |
 | [Another Century's Episode 3: The Final](https://github.com/retro-trans/ACE-3) | PS2 | SLPS-25784 | <!--v:ACE-3-->[`v0.9.20`](https://github.com/retro-trans/ACE-3/releases/latest)<!--/v--> |
+| [Another Century's Episode R](https://github.com/retro-trans/ACE-R) | PS3 | BLJS10081 | <!--v:ACE-R-->[`v0.4.12`](https://github.com/retro-trans/ACE-R/releases/latest)<!--/v--> |
 
 ### Sunrise Eiyuutan
 
@@ -53,6 +54,14 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 |---|---|---|---|
 | [Sunrise Eiyuutan R](https://github.com/retro-trans/Sunrise-Eiyuutan-R) | PS2 | SLPS-25011 | <!--v:Sunrise-Eiyuutan-R-->[`v0.8.0`](https://github.com/retro-trans/Sunrise-Eiyuutan-R/releases/latest)<!--/v--> |
 | [Sunrise Eiyuutan 2](https://github.com/retro-trans/Sunrise-Eiyuutan-2) | PS2 | SLPS-25070 | <!--v:Sunrise-Eiyuutan-2-->[`v0.8.0`](https://github.com/retro-trans/Sunrise-Eiyuutan-2/releases/latest)<!--/v--> |
+| [Sunrise World War from Sunrise Eiyuutan](https://github.com/retro-trans/Sunrise-World-War) | PS2 | SLPS-25270 | <!--v:Sunrise-World-War-->[`v0.8.0`](https://github.com/retro-trans/Sunrise-World-War/releases/latest)<!--/v--> |
+
+### Gakkou de Atta Kowai Hanashi
+
+| Game | System | Serial | Latest |
+|---|---|---|---|
+| [Gakkou de Atta Kowai Hanashi S](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S) | PS1 | SLPS-00404 | <!--v:Gakkou-de-Atta-Kowai-Hanashi-S-->[`v0.8.3`](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/latest)<!--/v--> |
+| [Apathy: Gakkou de Atta Kowai Hanashi Kiwame](https://github.com/retro-trans/Apathy-Kiwame) | PC (Steam) | Steam 2283710 | <!--v:Apathy-Kiwame-->[`v0.8.2`](https://github.com/retro-trans/Apathy-Kiwame/releases/latest)<!--/v--> |
 
 ### More games
 
@@ -61,9 +70,11 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 | [Summon Night 3](https://github.com/retro-trans/Summon-Night-3) | PSP | NPJH50380 | <!--v:Summon-Night-3-->[`v0.1.88`](https://github.com/retro-trans/Summon-Night-3/releases/latest)<!--/v--> |
 | [Heroes Phantasia](https://github.com/retro-trans/Heroes-Phantasia) | PSP | ULJS-00456 | <!--v:Heroes-Phantasia-->[`v0.1.62`](https://github.com/retro-trans/Heroes-Phantasia/releases/latest)<!--/v--> |
 | [Lost Heroes](https://github.com/retro-trans/Lost-Heroes) | PSP | NPJH50647 | <!--v:Lost-Heroes-->[`v0.1.20`](https://github.com/retro-trans/Lost-Heroes/releases/latest)<!--/v--> |
+| [Elminage III: Ankoku no Shito to Taiyou no Kyuuden](https://github.com/retro-trans/Elminage-III) | PSP | ULJM05883 | <!--v:Elminage-III-->[`v0.8.5`](https://github.com/retro-trans/Elminage-III/releases/latest)<!--/v--> |
 | [Ore no Shikabane o Koete Yuke](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke) | PSP | UCJS-10117 | <!--v:Ore-no-Shikabane-o-Koete-Yuke-->[`v0.2.52`](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/latest)<!--/v--> |
 | [Cross Ange: Rondo of Angel and Dragon tr.](https://github.com/retro-trans/Cross-Ange) | Vita | PCSG00597 | <!--v:Cross-Ange-->[`v0.1.16`](https://github.com/retro-trans/Cross-Ange/releases/latest)<!--/v--> |
 | [Wizardry Perfect Pack: Prisoners of the Lost City](https://github.com/retro-trans/Wizardry-Perfect-Pack) | PS3 | NPJB00162 | <!--v:Wizardry-Perfect-Pack-->[`v0.1.27`](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/latest)<!--/v--> |
+| [Mobile Suit Gundam: Climax U.C.](https://github.com/retro-trans/Gundam-Climax-UC) | PS2 | SLPS-25627 | <!--v:Gundam-Climax-UC-->[`v0.8.1`](https://github.com/retro-trans/Gundam-Climax-UC/releases/latest)<!--/v--> |
 | [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | <!--v:Super-Tokusatsu-Taisen-2001-->[`v0.9.1`](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/latest)<!--/v--> |
 | [Vampir: Kyuuketsuki Densetsu](https://github.com/retro-trans/Vampir) | PS1 | SLPS-01932 | <!--v:Vampir-->[`v0.6.0`](https://github.com/retro-trans/Vampir/releases/latest)<!--/v--> |
 | [Seireiki Rayblade](https://github.com/retro-trans/Seireiki-Rayblade) | Dreamcast | T-42201M | <!--v:Seireiki-Rayblade-->[`v0.7.23`](https://github.com/retro-trans/Seireiki-Rayblade/releases/latest)<!--/v--> |
