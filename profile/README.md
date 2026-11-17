@@ -4,7 +4,7 @@
 
 <p align="center">
   <!--badge:retro-trans-tools--><a href="https://github.com/retro-trans/retro-trans-tools/releases/latest"><img alt="Retro Trans app v0.5.23" src="https://img.shields.io/badge/Retro%20Trans%20app-v0.5.23-ff5fa2?style=for-the-badge&labelColor=1b1533"></a><!--/badge-->
-  <a href="https://discord.gg/MssepShjmB"><img alt="Discord" src="https://img.shields.io/badge/Discord-join%20the%20community-5ce1e6?style=for-the-badge&logo=discord&logoColor=white&labelColor=1b1533"></a>
+  <a href="https://discord.gg/nZBZfTDfCP"><img alt="Discord" src="https://img.shields.io/badge/Discord-join%20the%20community-5ce1e6?style=for-the-badge&logo=discord&logoColor=white&labelColor=1b1533"></a>
 </p>
 
 **Retro Trans** makes open toolchains and English fan translation patches for Japanese games that never left Japan: mostly **Super Robot Wars**, **Macross** and **Another Century's Episode**, plus RPGs across PS1, PS2, PS3, PSP, Vita, Dreamcast, GameCube and PC.
@@ -91,6 +91,6 @@ We'd love more players on these games. You can help by:
 - **Proofreading** the English against the Japanese. The English scripts are in each repo, and the `docs/` folder explains the workflow.
 - **Porting** the tools to another game or language. Every toolchain is open, so fork away.
 
-Come say hi on **[Discord](https://discord.gg/MssepShjmB)**.
+Come say hi on **[Discord](https://discord.gg/nZBZfTDfCP)**.
 
 <sub>Retro Trans is an unofficial fan project and is not affiliated with any game publisher or platform holder. Please support the original releases.</sub>
