@@ -60,7 +60,7 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Gakkou de Atta Kowai Hanashi S](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S) | PS1 | SLPS-00404 | <!--v:Gakkou-de-Atta-Kowai-Hanashi-S-->[`v0.8.3`](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/latest)<!--/v--> |
+| [Gakkou de Atta Kowai Hanashi S](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S) | PS1 | SLPS-00404 | <!--v:Gakkou-de-Atta-Kowai-Hanashi-S-->[`v0.9.0`](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/latest)<!--/v--> |
 | [Apathy: Gakkou de Atta Kowai Hanashi Kiwame](https://github.com/retro-trans/Apathy-Kiwame) | PC (Steam) | Steam 2283710 | <!--v:Apathy-Kiwame-->[`v0.8.2`](https://github.com/retro-trans/Apathy-Kiwame/releases/latest)<!--/v--> |
 
 ### More games
@@ -70,7 +70,7 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 | [Summon Night 3](https://github.com/retro-trans/Summon-Night-3) | PSP | NPJH50380 | <!--v:Summon-Night-3-->[`v0.1.88`](https://github.com/retro-trans/Summon-Night-3/releases/latest)<!--/v--> |
 | [Heroes Phantasia](https://github.com/retro-trans/Heroes-Phantasia) | PSP | ULJS-00456 | <!--v:Heroes-Phantasia-->[`v0.1.62`](https://github.com/retro-trans/Heroes-Phantasia/releases/latest)<!--/v--> |
 | [Lost Heroes](https://github.com/retro-trans/Lost-Heroes) | PSP | NPJH50647 | <!--v:Lost-Heroes-->[`v0.1.20`](https://github.com/retro-trans/Lost-Heroes/releases/latest)<!--/v--> |
-| [Elminage III: Ankoku no Shito to Taiyou no Kyuuden](https://github.com/retro-trans/Elminage-III) | PSP | ULJM05883 | <!--v:Elminage-III-->[`v0.8.14`](https://github.com/retro-trans/Elminage-III/releases/latest)<!--/v--> |
+| [Elminage III: Ankoku no Shito to Taiyou no Kyuuden](https://github.com/retro-trans/Elminage-III) | PSP | ULJM05883 | <!--v:Elminage-III-->[`v0.8.25`](https://github.com/retro-trans/Elminage-III/releases/latest)<!--/v--> |
 | [Ore no Shikabane o Koete Yuke](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke) | PSP | UCJS-10117 | <!--v:Ore-no-Shikabane-o-Koete-Yuke-->[`v0.2.52`](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/latest)<!--/v--> |
 | [Cross Ange: Rondo of Angel and Dragon tr.](https://github.com/retro-trans/Cross-Ange) | Vita | PCSG00597 | <!--v:Cross-Ange-->[`v0.1.16`](https://github.com/retro-trans/Cross-Ange/releases/latest)<!--/v--> |
 | [Wizardry Perfect Pack: Prisoners of the Lost City](https://github.com/retro-trans/Wizardry-Perfect-Pack) | PS3 | NPJB00162 | <!--v:Wizardry-Perfect-Pack-->[`v0.1.27`](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/latest)<!--/v--> |
