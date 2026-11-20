@@ -63,6 +63,21 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 | [Gakkou de Atta Kowai Hanashi S](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S) | PS1 | SLPS-00404 | <!--v:Gakkou-de-Atta-Kowai-Hanashi-S-->[`v0.9.0`](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/latest)<!--/v--> |
 | [Apathy: Gakkou de Atta Kowai Hanashi Kiwame](https://github.com/retro-trans/Apathy-Kiwame) | PC (Steam) | Steam 2283710 | <!--v:Apathy-Kiwame-->[`v0.8.2`](https://github.com/retro-trans/Apathy-Kiwame/releases/latest)<!--/v--> |
 
+### Elminage
+
+| Game | System | Serial | Latest |
+|---|---|---|---|
+| [Elminage II: Sousei no Megami to Unmei no Daichi](https://github.com/retro-trans/Elminage-II) | PSP | ULJM05488 | <!--v:Elminage-II-->[`v0.8.0`](https://github.com/retro-trans/Elminage-II/releases/latest)<!--/v--> |
+| [Elminage III: Ankoku no Shito to Taiyou no Kyuuden](https://github.com/retro-trans/Elminage-III) | PSP | ULJM05883 | <!--v:Elminage-III-->[`v0.8.25`](https://github.com/retro-trans/Elminage-III/releases/latest)<!--/v--> |
+| [Elminage Ibun: Ame no Mihashira](https://github.com/retro-trans/Elminage-Ibun) | PSP | ULJM06141 | <!--v:Elminage-Ibun-->[`v0.8.0`](https://github.com/retro-trans/Elminage-Ibun/releases/latest)<!--/v--> |
+
+### Bounty Sword
+
+| Game | System | Serial | Latest |
+|---|---|---|---|
+| [Bounty Sword First](https://github.com/retro-trans/Bounty-Sword-First) | PS1 | SLPS-00757 | <!--v:Bounty-Sword-First-->[`v0.5.20`](https://github.com/retro-trans/Bounty-Sword-First/releases/latest)<!--/v--> |
+| [Bounty Sword: Double Edge](https://github.com/retro-trans/Bounty-Sword-Double-Edge) | PS1 | SLPS-01479 | <!--v:Bounty-Sword-Double-Edge-->[`v0.3.19`](https://github.com/retro-trans/Bounty-Sword-Double-Edge/releases/latest)<!--/v--> |
+
 ### More games
 
 | Game | System | Serial | Latest |
@@ -70,11 +85,11 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 | [Summon Night 3](https://github.com/retro-trans/Summon-Night-3) | PSP | NPJH50380 | <!--v:Summon-Night-3-->[`v0.1.88`](https://github.com/retro-trans/Summon-Night-3/releases/latest)<!--/v--> |
 | [Heroes Phantasia](https://github.com/retro-trans/Heroes-Phantasia) | PSP | ULJS-00456 | <!--v:Heroes-Phantasia-->[`v0.1.62`](https://github.com/retro-trans/Heroes-Phantasia/releases/latest)<!--/v--> |
 | [Lost Heroes](https://github.com/retro-trans/Lost-Heroes) | PSP | NPJH50647 | <!--v:Lost-Heroes-->[`v0.1.20`](https://github.com/retro-trans/Lost-Heroes/releases/latest)<!--/v--> |
-| [Elminage III: Ankoku no Shito to Taiyou no Kyuuden](https://github.com/retro-trans/Elminage-III) | PSP | ULJM05883 | <!--v:Elminage-III-->[`v0.8.25`](https://github.com/retro-trans/Elminage-III/releases/latest)<!--/v--> |
 | [Ore no Shikabane o Koete Yuke](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke) | PSP | UCJS-10117 | <!--v:Ore-no-Shikabane-o-Koete-Yuke-->[`v0.2.52`](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/latest)<!--/v--> |
 | [Cross Ange: Rondo of Angel and Dragon tr.](https://github.com/retro-trans/Cross-Ange) | Vita | PCSG00597 | <!--v:Cross-Ange-->[`v0.1.16`](https://github.com/retro-trans/Cross-Ange/releases/latest)<!--/v--> |
 | [Wizardry Perfect Pack: Prisoners of the Lost City](https://github.com/retro-trans/Wizardry-Perfect-Pack) | PS3 | NPJB00162 | <!--v:Wizardry-Perfect-Pack-->[`v0.1.27`](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/latest)<!--/v--> |
 | [Mobile Suit Gundam: Climax U.C.](https://github.com/retro-trans/Gundam-Climax-UC) | PS2 | SLPS-25627 | <!--v:Gundam-Climax-UC-->[`v0.8.1`](https://github.com/retro-trans/Gundam-Climax-UC/releases/latest)<!--/v--> |
+| [Getter Robo Daikessen!](https://github.com/retro-trans/Getter-Robo-Daikessen) | PS1 | SLPS-02232 | <!--v:Getter-Robo-Daikessen-->[`v0.8.0`](https://github.com/retro-trans/Getter-Robo-Daikessen/releases/latest)<!--/v--> |
 | [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | <!--v:Super-Tokusatsu-Taisen-2001-->[`v0.9.7`](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/latest)<!--/v--> |
 | [Vampir: Kyuuketsuki Densetsu](https://github.com/retro-trans/Vampir) | PS1 | SLPS-01932 | <!--v:Vampir-->[`v0.6.0`](https://github.com/retro-trans/Vampir/releases/latest)<!--/v--> |
 | [Seireiki Rayblade](https://github.com/retro-trans/Seireiki-Rayblade) | Dreamcast | T-42201M | <!--v:Seireiki-Rayblade-->[`v0.7.50`](https://github.com/retro-trans/Seireiki-Rayblade/releases/latest)<!--/v--> |
