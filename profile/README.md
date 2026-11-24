@@ -25,10 +25,10 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Super Robot Wars Z](https://github.com/retro-trans/SRW-Z) | PS2 | SLPS-25887 · SLPS-73270 | <!--v:SRW-Z-->[`v0.9.91`](https://github.com/retro-trans/SRW-Z/releases/latest)<!--/v--> |
+| [Super Robot Wars Z](https://github.com/retro-trans/SRW-Z) | PS2 | SLPS-25887 · SLPS-73270 | <!--v:SRW-Z-->[`v0.9.92`](https://github.com/retro-trans/SRW-Z/releases/latest)<!--/v--> |
 | [Super Robot Wars Z Special Disc](https://github.com/retro-trans/SRW-Z-Special-Disc) | PS2 | SLPS-25920 | <!--v:SRW-Z-Special-Disc-->[`v0.3.20`](https://github.com/retro-trans/SRW-Z-Special-Disc/releases/latest)<!--/v--> |
 | [Super Robot Wars Z3: Jigoku-hen](https://github.com/retro-trans/SRW-Z3) | PS3 · Vita | BLJS10256 · PCSG00264 | <!--v:SRW-Z3-->[`v0.9.7`](https://github.com/retro-trans/SRW-Z3/releases/latest)<!--/v--> |
-| [Super Robot Wars Z3: Rengoku-hen](https://github.com/retro-trans/SRW-Z3-R) | PS3 | NPJB00689 | <!--v:SRW-Z3-R-->[`v0.9.0`](https://github.com/retro-trans/SRW-Z3-R/releases/latest)<!--/v--> |
+| [Super Robot Wars Z3: Rengoku-hen](https://github.com/retro-trans/SRW-Z3-R) | PS3 | NPJB00689 | <!--v:SRW-Z3-R-->[`v0.9.4`](https://github.com/retro-trans/SRW-Z3-R/releases/latest)<!--/v--> |
 | [Super Robot Wars Z3: Tengoku-hen](https://github.com/retro-trans/SRW-Z3-2) | PS3 | BLJS10299 | <!--v:SRW-Z3-2-->[`v0.5.44`](https://github.com/retro-trans/SRW-Z3-2/releases/latest)<!--/v--> |
 | [Super Robot Wars MX / MX Portable](https://github.com/retro-trans/SRW-MX-Portable) | PS2 · PSP | SLPS-25345 · ULJS-00041 | <!--v:SRW-MX-Portable-->[`v0.9.0`](https://github.com/retro-trans/SRW-MX-Portable/releases/latest)<!--/v--> |
 
@@ -67,7 +67,7 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 
 | Game | System | Serial | Latest |
 |---|---|---|---|
-| [Elminage II: Sousei no Megami to Unmei no Daichi](https://github.com/retro-trans/Elminage-II) | PSP | ULJM05488 | <!--v:Elminage-II-->[`v0.8.1`](https://github.com/retro-trans/Elminage-II/releases/latest)<!--/v--> |
+| [Elminage II: Sousei no Megami to Unmei no Daichi](https://github.com/retro-trans/Elminage-II) | PSP | ULJM05488 | <!--v:Elminage-II-->[`v0.8.3`](https://github.com/retro-trans/Elminage-II/releases/latest)<!--/v--> |
 | [Elminage III: Ankoku no Shito to Taiyou no Kyuuden](https://github.com/retro-trans/Elminage-III) | PSP | ULJM05883 | <!--v:Elminage-III-->[`v0.8.25`](https://github.com/retro-trans/Elminage-III/releases/latest)<!--/v--> |
 | [Elminage Ibun: Ame no Mihashira](https://github.com/retro-trans/Elminage-Ibun) | PSP | ULJM06141 | <!--v:Elminage-Ibun-->[`v0.8.0`](https://github.com/retro-trans/Elminage-Ibun/releases/latest)<!--/v--> |
 
@@ -90,7 +90,7 @@ Prefer doing it by hand? xdelta releases also work with [Delta Patcher](https://
 | [Wizardry Perfect Pack: Prisoners of the Lost City](https://github.com/retro-trans/Wizardry-Perfect-Pack) | PS3 | NPJB00162 | <!--v:Wizardry-Perfect-Pack-->[`v0.1.27`](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/latest)<!--/v--> |
 | [Mobile Suit Gundam: Climax U.C.](https://github.com/retro-trans/Gundam-Climax-UC) | PS2 | SLPS-25627 | <!--v:Gundam-Climax-UC-->[`v0.8.1`](https://github.com/retro-trans/Gundam-Climax-UC/releases/latest)<!--/v--> |
 | [Getter Robo Daikessen!](https://github.com/retro-trans/Getter-Robo-Daikessen) | PS1 | SLPS-02232 | <!--v:Getter-Robo-Daikessen-->[`v0.8.30`](https://github.com/retro-trans/Getter-Robo-Daikessen/releases/latest)<!--/v--> |
-| [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | <!--v:Super-Tokusatsu-Taisen-2001-->[`v0.9.7`](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/latest)<!--/v--> |
+| [Super Tokusatsu Taisen 2001](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001) | PS1 | SLPS-02863 | <!--v:Super-Tokusatsu-Taisen-2001-->[`v0.9.9`](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/latest)<!--/v--> |
 | [Vampir: Kyuuketsuki Densetsu](https://github.com/retro-trans/Vampir) | PS1 | SLPS-01932 | <!--v:Vampir-->[`v0.6.1`](https://github.com/retro-trans/Vampir/releases/latest)<!--/v--> |
 | [Seireiki Rayblade](https://github.com/retro-trans/Seireiki-Rayblade) | Dreamcast | T-42201M | <!--v:Seireiki-Rayblade-->[`v0.7.50`](https://github.com/retro-trans/Seireiki-Rayblade/releases/latest)<!--/v--> |
 | [Black/Matrix AD](https://github.com/retro-trans/Black-Matrix-AD) | Dreamcast | — | <!--v:Black-Matrix-AD-->[`v0.9.1`](https://github.com/retro-trans/Black-Matrix-AD/releases/latest)<!--/v--> |
